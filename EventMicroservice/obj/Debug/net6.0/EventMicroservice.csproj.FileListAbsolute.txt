@@ -1,0 +1,17 @@
+B:\GitHub\FastForwardSC\EventMicroservice\bin\Debug\net6.0\EventMicroservice.deps.json
+B:\GitHub\FastForwardSC\EventMicroservice\bin\Debug\net6.0\EventMicroservice.dll
+B:\GitHub\FastForwardSC\EventMicroservice\bin\Debug\net6.0\EventMicroservice.pdb
+B:\GitHub\FastForwardSC\EventMicroservice\obj\Debug\net6.0\EventMicroservice.csproj.AssemblyReference.cache
+B:\GitHub\FastForwardSC\EventMicroservice\obj\Debug\net6.0\EventMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+B:\GitHub\FastForwardSC\EventMicroservice\obj\Debug\net6.0\EventMicroservice.AssemblyInfoInputs.cache
+B:\GitHub\FastForwardSC\EventMicroservice\obj\Debug\net6.0\EventMicroservice.AssemblyInfo.cs
+B:\GitHub\FastForwardSC\EventMicroservice\obj\Debug\net6.0\EventMicroservice.csproj.CoreCompileInputs.cache
+B:\GitHub\FastForwardSC\EventMicroservice\obj\Debug\net6.0\EventMicroservice.dll
+B:\GitHub\FastForwardSC\EventMicroservice\obj\Debug\net6.0\refint\EventMicroservice.dll
+B:\GitHub\FastForwardSC\EventMicroservice\obj\Debug\net6.0\EventMicroservice.pdb
+B:\GitHub\FastForwardSC\EventMicroservice\obj\Debug\net6.0\ref\EventMicroservice.dll
+B:\GitHub\FastForwardSC\EventMicroservice\bin\Debug\net6.0\Shared.dll
+B:\GitHub\FastForwardSC\EventMicroservice\bin\Debug\net6.0\Shared.pdb
+B:\GitHub\FastForwardSC\EventMicroservice\obj\Debug\net6.0\EventMicroservice.csproj.CopyComplete
+B:\GitHub\FastForwardSC\EventMicroservice\bin\Debug\net6.0\FastForwardSC.Persistence.dll
+B:\GitHub\FastForwardSC\EventMicroservice\bin\Debug\net6.0\FastForwardSC.Persistence.pdb

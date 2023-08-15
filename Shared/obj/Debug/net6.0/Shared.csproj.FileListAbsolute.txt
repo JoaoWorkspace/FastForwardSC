@@ -1,0 +1,12 @@
+B:\GitHub\FastForwardSC\Shared\obj\Debug\net6.0\Shared.csproj.AssemblyReference.cache
+B:\GitHub\FastForwardSC\Shared\obj\Debug\net6.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+B:\GitHub\FastForwardSC\Shared\obj\Debug\net6.0\Shared.AssemblyInfoInputs.cache
+B:\GitHub\FastForwardSC\Shared\obj\Debug\net6.0\Shared.AssemblyInfo.cs
+B:\GitHub\FastForwardSC\Shared\obj\Debug\net6.0\Shared.csproj.CoreCompileInputs.cache
+B:\GitHub\FastForwardSC\Shared\bin\Debug\net6.0\Shared.deps.json
+B:\GitHub\FastForwardSC\Shared\bin\Debug\net6.0\Shared.dll
+B:\GitHub\FastForwardSC\Shared\bin\Debug\net6.0\Shared.pdb
+B:\GitHub\FastForwardSC\Shared\obj\Debug\net6.0\Shared.dll
+B:\GitHub\FastForwardSC\Shared\obj\Debug\net6.0\refint\Shared.dll
+B:\GitHub\FastForwardSC\Shared\obj\Debug\net6.0\Shared.pdb
+B:\GitHub\FastForwardSC\Shared\obj\Debug\net6.0\ref\Shared.dll

@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>1b9ea58f-10f4-43f0-82b2-691faf6412e4</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <DockerfileContext>.</DockerfileContext>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.10">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.18.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EventMicroservice\EventMicroservice.csproj" />
+    <ProjectReference Include="..\FastForwardSC.Persistence\FastForwardSC.Persistence.csproj" />
+    <ProjectReference Include="..\ProductMicroservice\ProductMicroservice.csproj" />
+    <ProjectReference Include="..\PromotionMicroservice\PromotionMicroservice.csproj" />
+    <ProjectReference Include="..\RatingMicroservice\RatingMicroservice.csproj" />
+    <ProjectReference Include="..\StoreMicroservice\StoreMicroservice.csproj" />
+    <ProjectReference Include="..\UserMicroservice\UserMicroservice.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,17 @@
+B:\GitHub\FastForwardSC\RatingMicroservice\obj\Debug\net6.0\RatingMicroservice.csproj.AssemblyReference.cache
+B:\GitHub\FastForwardSC\RatingMicroservice\obj\Debug\net6.0\RatingMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+B:\GitHub\FastForwardSC\RatingMicroservice\obj\Debug\net6.0\RatingMicroservice.AssemblyInfoInputs.cache
+B:\GitHub\FastForwardSC\RatingMicroservice\obj\Debug\net6.0\RatingMicroservice.AssemblyInfo.cs
+B:\GitHub\FastForwardSC\RatingMicroservice\obj\Debug\net6.0\RatingMicroservice.csproj.CoreCompileInputs.cache
+B:\GitHub\FastForwardSC\RatingMicroservice\bin\Debug\net6.0\RatingMicroservice.deps.json
+B:\GitHub\FastForwardSC\RatingMicroservice\bin\Debug\net6.0\RatingMicroservice.dll
+B:\GitHub\FastForwardSC\RatingMicroservice\bin\Debug\net6.0\RatingMicroservice.pdb
+B:\GitHub\FastForwardSC\RatingMicroservice\bin\Debug\net6.0\FastForwardSC.Persistence.dll
+B:\GitHub\FastForwardSC\RatingMicroservice\bin\Debug\net6.0\Shared.dll
+B:\GitHub\FastForwardSC\RatingMicroservice\bin\Debug\net6.0\FastForwardSC.Persistence.pdb
+B:\GitHub\FastForwardSC\RatingMicroservice\bin\Debug\net6.0\Shared.pdb
+B:\GitHub\FastForwardSC\RatingMicroservice\obj\Debug\net6.0\RatingMicroservice.csproj.CopyComplete
+B:\GitHub\FastForwardSC\RatingMicroservice\obj\Debug\net6.0\RatingMicroservice.dll
+B:\GitHub\FastForwardSC\RatingMicroservice\obj\Debug\net6.0\refint\RatingMicroservice.dll
+B:\GitHub\FastForwardSC\RatingMicroservice\obj\Debug\net6.0\RatingMicroservice.pdb
+B:\GitHub\FastForwardSC\RatingMicroservice\obj\Debug\net6.0\ref\RatingMicroservice.dll
